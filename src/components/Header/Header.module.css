@@ -1,8 +1,15 @@
 .header {
     grid-area: h;
-    background-color: green;
+    background-color: mediumaquamarine;
+}
+
+.text {
+    color: whitesmoke;
 }
 
 .header img {
     width: 50px;
+    margin: 0px 20px 0px 10px;
 }
+
+
